@@ -1,0 +1,22 @@
+{
+  "name": "TIY-Mashup",
+  "version": "1.0.0",
+  "description": "This is going to b-e-a-u-tiful",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TaylorFoster90/TIY-Mashup.git"
+  },
+  "author": "",
+  "license": "CC0",
+  "bugs": {
+    "url": "https://github.com/TaylorFoster90/TIY-Mashup/issues"
+  },
+  "homepage": "https://github.com/TaylorFoster90/TIY-Mashup",
+  "devDependencies": {
+    "lodash": "^3.2.0"
+  }
+}
